@@ -8,7 +8,7 @@ Lorem Ipsum
 Lorem Ipsum
 
 ### SKILLS
-Bash, Bootstrap, C, C++, DSA, Django, Flask, Git, HTML/CSS/Sass, JavaScript, Jupyter Notebooks, Linux, PostgreSQL, Python, Rust, SQLite3, Ubuntu, VSCode, Windows
+Bash, Bootstrap, C, C++, DSA, Django, Flask, Git, HTML/CSS/Sass, JavaScript, Jupyter Notebooks, Linux, PostgreSQL, Python, Rust, SQLite3, Ubuntu, Verilog, VSCode, Windows
 
 ### COMPLETED COURSEWORK
 
@@ -80,7 +80,7 @@ Lorem Ipsum
 ####  Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
 Lorem Ipsum
 
-### PROJECTS
+### COMPLETED PROJECTS
 #### [Programming Log](https://github.com/seandavidreed/programming-log)
 When I began the journey to learn CS in September 2021, I knew I would need to demonstrate my efforts as much as possible, so I started a journal of sorts that I called my programming log. In it, I have detailed nearly everything I've ever worked on, every course l've taken, book read, specific concept researched, and every resource that has helped me along the way. In addition to provided me with a demonstrable track record, this log has given me an appreciation for documentation. I have aimed to thoroughly describe everything that I
 do, so l've learned how to communicate my ideas well. On countless occasions, my own documentation has helped me resume and optimize old projects, picking up where I left off after a hiatus.
@@ -88,8 +88,24 @@ do, so l've learned how to communicate my ideas well. On countless occasions, my
 #### [Inventory Manager](https://github.com/seandavidreed/inventory-manager-production)
 This was my final project for CS50. Years ago, I built a simple inventory ordering system for a local coffee shop with spreadsheets, but the design left some optimization to be desired. Inspired to improve the system, I designed this project, a web application made primarily to be used on mobile. I decided to use Django for my web app framework and the CSS framework Bootstrap. In a nutshell, the app allows users to scroll through a simple list of inventory and update the numbers according to what they have in storage. Then, the user proceeds to the next page where they can finalize the order. When confirmed, the app sends all the relevant information to each supplier automatically thereby streamlining the inventory ordering process.
 
+#### [Azul Game CLI](https://github.com/seandavidreed/azul-cli)
+Lorem Ipsum
+
+#### [Hasse Diagram Generator](https://github.com/seandavidreed/hasse-diagram-generator)
+Lorem Ipsum
+
+#### [Note Interpreter](https://github.com/seandavidreed/note-interpreter)
+Lorem Ipsum
+
+#### [Simple Synth](https://github.com/seandavidreed/simple-synth)
+Lorem Ipsum
+
 #### [Student Log](https://github.com/seandavidreed/student-log)
 In my work as a music instructor, I needed a way to keep track of my students' progress. Initially, I used spreadsheets, but frequent copy/paste operations proved cumbersome and I didn't like the format, so I built a Command-Line Interface app in C that I called student-log. My design allowed me to pull up any student information with just a few keystrokes, making my job significantly easier. Ultimately, I went through several redesigns of this app before settling on v4.0. The first version used binary files to store student information and the app would read each file into memory upon launch. Version 4.0 uses SQLite3 to store all this information. This was my first serious project written in C; I learned a lot and was able to put into practice the principles I gleaned from the C Programming course.
+
+### UNCOMPLETED PROJECTS
+#### [Rubiks Cube Solver](https://github.com/seandavidreed/rubiks_cube_solution)
+Lorem Ipsum
 
 ### JOBS
 
