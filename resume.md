@@ -3,19 +3,20 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
+title: Sean Reed
 description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
 keywords:
   - 'php'
   - 'mysql'
   - 'linux'
-author:
-- I am the author
+# author:
+# - I am the author
 subject: 'Subject'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [[example.com](https://example.com)] . [seandreed@proton.me] . [ 253 691 0013 ]
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+## Personal Statement
+I'm a music instructor with more than five years of teaching experience. For over half that time, I've been teaching myself Computer Science both in theory and in practice. As a capstone to all my self-study, I decided to return to university to acquire a proper Computer Science degree. Now it's time to make the switch and use my time as a student to secure an internship.
 
 ## Skills
 
@@ -31,16 +32,57 @@ subject: 'Subject'
 ```load/stress testing```
 ```WordPress```
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+**Programming**: Python, C, C++, Rust, JavaScript, HTML/CSS  
+**Databases**: Postgres, sqlite  
+**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian  
+**DevOps**: Ansible, Chef, Kubernetes, etc.  
+
+## Education
+
+### BS in Computer Science, Western Governor's University, In Progress
+
+- Member of xyz club, etc.
+- I didn't really go to college so I don't know what you would put here.
+
+### BA in Business Administration, George Fox University, 2010-2014
+
+- EXPLAIN stuff
+
+## Projects
+
+**[*Programming Log*](https://github.com/seandavidreed/programming-log)**
+
+- Explain how this catalogs all my efforts.
+
+**[*Hasse Diagram Generator*](https://github.com/seandavidreed/hasse-diagram-generator)**
+
+- Explain how and why I did this.
+
+**[*Azul Game*](https://github.com/seandavidreed/azul-cli)**
+
+- EXPLAIN
+
+**[*Note Interpreter*](https://github.com/seandavidreed/note-interpreter)**
+
+- EXPLAIN
+
+**[*Simple Synth*](https://github.com/seandavidreed/simple-synth)**
+
+- EXPLAIN
+
+**[*Inventory Manager*](https://github.com/seandavidreed/inventory-manager-production)**
+
+- EXPLAIN
+
+**[Student Log](https://github.com/seandavidreed/student-log)**
+
+- EXPLAIN
 
 ## Experience
 
-### CEO and Founder, Pied Piper
+### Guitar Instructor, Cappella Music Academy
 
-start-date-end-date, City, State and remote
+June 2019 - Present, Tacoma, WA
 
 - Things you did/do here
 - More things that you do here.
@@ -60,18 +102,3 @@ start-date-end-date, City, State and remote
 
 - Winner TechCrunch Disrupt 2001
 - People Magazine's sexiest man alive at 123 My Address, MyCity, TX
-
-## Projects
-
-**[*Personal Blog*](http://luther.io)** (2021-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
-
-## Education
-
-### Masters in BS, Example University
-
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
