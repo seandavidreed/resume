@@ -64,7 +64,7 @@ template {
  */
 
 html {
-    font-family: sans-serif;
+    font-family: calibri, sans-serif;
     /* 1 */
     -ms-text-size-adjust: 100%;
     /* 2 */
@@ -527,7 +527,7 @@ h2 {
 
 h3 {
     font-size: 18px;
-    color: #333
+    color: #333;
     -webkit-margin-before: 0.01em;
     -webkit-margin-after: 0.01em;
 }

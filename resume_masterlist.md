@@ -1,5 +1,12 @@
 # Resume Masterlist
 
+### PROFESSIONAL SUMMARIES
+#### Statement 0
+I'm a music instructor with more than five years of teaching experience. For over half that time, I've been teaching myself Computer Science both in theory and in practice. As a capstone to all my self-study, I decided to return to university to acquire a proper Computer Science degree. Now it's time to make the switch and use my time as a student to secure an internship.
+
+#### Statement 1
+Music Instructor transitioning to Software Engineer. Bringing over five years of experience in Music Instruction with transferable skills such as adaptability, communication of complex concepts in simple terms, and problem solving. Proven success in developing curricula that align with the unique goals and strengths of each student from previous role. Eager to apply creativity and thorough documentation practices in Software Engineering.
+
 ### EDUCATION
 #### BS in Computer Science, Western Governors University, In Progress
 Lorem Ipsum
@@ -8,7 +15,26 @@ Lorem Ipsum
 Lorem Ipsum
 
 ### SKILLS
-Bash, Bootstrap, C, C++, DSA, Django, Flask, Git, HTML/CSS/Sass, JavaScript, Jupyter Notebooks, Linux, PostgreSQL, Python, Rust, SQLite3, Ubuntu, Verilog, VSCode, Windows
+- Bash
+- Bootstrap
+- C
+- C++
+- DSA
+- Django
+- Flask
+- Git
+- HTML/CSS/Sass
+- JavaScript
+- Jupyter Notebooks
+- Linux
+- PostgreSQL
+- Python
+- Rust
+- SQLite3
+- Ubuntu
+- Verilog
+- VSCode
+- Windows
 
 ### COMPLETED COURSEWORK
 
@@ -128,7 +154,4 @@ I interacted with customers on and off the bar, making drinks and helping them s
 #### Woodland Espresso Jan 2015 - Sept 2016
 ##### General Manager
 I developed a inventory tracking system using Google Sheets, assisted in scheduling shifts and hiring new baristas, implemented the Square Register system in the cafe, and scheduled deliveries to the shop.
-
-
-
 

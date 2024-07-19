@@ -13,40 +13,28 @@ keywords:
 # - I am the author
 subject: 'Subject'
 ---
-###### [[example.com](https://example.com)] . [seandreed@proton.me] . [ 253 691 0013 ]
+###### [[github.com/seandavidreed](https://gihub.com/seandavidreed)] . [seandreed@proton.me] . [ 253 691 0013 ]
 
 ## Personal Statement
-I'm a music instructor with more than five years of teaching experience. For over half that time, I've been teaching myself Computer Science both in theory and in practice. As a capstone to all my self-study, I decided to return to university to acquire a proper Computer Science degree. Now it's time to make the switch and use my time as a student to secure an internship.
+Music Instructor transitioning to Software Engineer. Bringing over five years of experience in Music Instruction with transferable skills such as adaptability, communication of complex concepts in simple terms, and problem solving. Proven success in developing curricula that align with the unique goals and strengths of each student from previous role. Eager to apply creativity and thorough documentation practices in Software Engineering.
 
 ## Skills
 
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
+```CLI Applications and Embedded with C/C++```
+```Ultralytics YOLOv8 model training with Python in Google Colab```
+```MSP430 MCU development```
+```Web Applications with Django```
 
-**Programming**: Python, C, C++, Rust, JavaScript, HTML/CSS  
+**Programming**: C, C++, Rust, Python, JavaScript, HTML/CSS  
 **Databases**: Postgres, sqlite  
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian  
-**DevOps**: Ansible, Chef, Kubernetes, etc.  
+**Linux**: Ubuntu  
+**Frameworks**: Bootstrap, Django, Flask
 
 ## Education
 
 ### BS in Computer Science, Western Governor's University, In Progress
 
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
-
 ### BA in Business Administration, George Fox University, 2010-2014
-
-- EXPLAIN stuff
 
 ## Projects
 
