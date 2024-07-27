@@ -7,6 +7,9 @@ I'm a music instructor with more than five years of teaching experience. For ove
 #### Statement 1
 Music Instructor transitioning to Software Engineer. Bringing over five years of experience in Music Instruction with transferable skills such as adaptability, communication of complex concepts in simple terms, and problem solving. Proven success in developing curricula that align with the unique goals and strengths of each student from previous role. Eager to apply creativity and thorough documentation practices in Software Engineering.
 
+#### Statement 2 (Used in application to Docugami)
+Computer Science student and self-taught programmer making a career change from Music Instruction to Software Development. Bringing over 5 years of teaching experience with transferable skills such as problem-solving, communicating complex topics simply, and developing curricula that align with the unique goals of each student. Demonstrating 3 years of programming and development through designing and building multiple projects and completing several certified courses. Seeking an opportunity to learn new things and use my self-starter skillset as a Software Engineering Intern.
+
 ### EDUCATION
 #### BS in Computer Science, Western Governors University, In Progress
 Lorem Ipsum

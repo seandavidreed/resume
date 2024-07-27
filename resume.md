@@ -4,16 +4,8 @@ margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
 title: Sean Reed
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
-keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
-# author:
-# - I am the author
-subject: 'Subject'
 ---
-###### [[github.com/seandavidreed](https://gihub.com/seandavidreed)] . [seandreed@proton.me] . [ 253 691 0013 ]
+###### linkedin.com/in/seandreed . seandreed@proton.me . 253 691 0013
 
 ## Personal Statement
 Music Instructor transitioning to Software Engineer. Bringing over five years of experience in Music Instruction with transferable skills such as adaptability, communication of complex concepts in simple terms, and problem solving. Proven success in developing curricula that align with the unique goals and strengths of each student from previous role. Eager to apply creativity and thorough documentation practices in Software Engineering.
@@ -32,7 +24,7 @@ Music Instructor transitioning to Software Engineer. Bringing over five years of
 
 ## Education
 
-### BS in Computer Science, Western Governor's University, In Progress
+### BS in Computer Science, Western Governor's University, 2024-2026
 
 ### BA in Business Administration, George Fox University, 2010-2014
 
@@ -66,7 +58,7 @@ Music Instructor transitioning to Software Engineer. Bringing over five years of
 
 - EXPLAIN
 
-## Experience
+## Work Experience
 
 ### Guitar Instructor, Cappella Music Academy
 
@@ -74,15 +66,6 @@ June 2019 - Present, Tacoma, WA
 
 - Things you did/do here
 - More things that you do here.
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-### Senior Software Architect, Hooli
-
-2010-2016, San Francisco, CA
-
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
 
 **Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
 
