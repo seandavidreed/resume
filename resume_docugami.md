@@ -55,7 +55,7 @@ George Fox University
 - Scheduled deliveries to the shop.
 
 ## Skills
-Python, Colab, Jupyter, C/C++ Rust, Postgres, sqlite, Django, Flask, JavaScript, HTML/CSS, Bootstrap
+Python, pytorch, Colab, Jupyter, C/C++, Rust, Postgres, sqlite, Django, Flask, JavaScript, HTML/CSS, Bootstrap
 
 ## Certificates
 <span style="float: left">HarvardX CS50's Introduction to Artificial Intelligence with Python</span>
