@@ -12,14 +12,14 @@ Computer Science student and self-taught programmer making a career change from 
 
 ## Education
 #### <span style="float: left">BS in Computer Science</span>
-#### <span style="float: right">2024 - 2026</span><br>
+#### <span style="float: right">Expected Dec 2025</span><br>
 Western Governors University
 
 #### <span style="float: left;">BA in Business Administration</span>
-#### <span style="float: right;">2010 - 2014</span><br>
+#### <span style="float: right;">Graduation Apr 2014</span><br>
 George Fox University
 
-## Work History
+## Work Experience
 
 #### <span style="float: left">Music Instructor - Cappella Music Academy | Tacoma, WA</span>
 #### <span style="float: right">Jun 2019 - Present</span><br>
@@ -58,7 +58,7 @@ George Fox University
 Python, pytorch, C/C++, Rust, Postgres, sqlite, Django, Flask, JavaScript, HTML/CSS, Bootstrap
 
 ## Certificates
-<span style="float: left">HarvardX CS50's Introduction to Artificial Intelligence with Python</span>
-<span style="float: right">Aug 2023</span><br>
-<span style="float: left">HarvardX CS50's Introduction to Computer Science</span>
-<span style="float: right">Dec 2022</span><br>
+#### <span style="float: left">HarvardX CS50's Introduction to Artificial Intelligence with Python</span>
+#### <span style="float: right">Aug 2023</span><br>
+#### <span style="float: left">HarvardX CS50's Introduction to Computer Science</span>
+#### <span style="float: right">Dec 2022</span><br>

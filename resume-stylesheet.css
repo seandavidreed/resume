@@ -459,7 +459,7 @@ body {
 }
 
 body {
-    font: 13.34pxHelvetica;
+    font: 13.34;
     -webkit-font-smoothing: subpixel-antialiased;
     line-height: 1.4;
     padding: 3px;
@@ -520,21 +520,21 @@ h1 {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 20px;
     border-bottom: 1px solid #ccc;
-    color: #3e6f7a;
+    color: #000;
 }
 
 h3 {
     font-size: 18px;
-    color: #333;
+    color: #000;
     -webkit-margin-before: 0.01em;
     -webkit-margin-after: 0.01em;
 }
 
 h4 {
     font-size: 16px;
-    color: #333;
+    color: #000;
     text-align: center;
     -webkit-margin-before: 0.02em;
     -webkit-margin-after: 0.02em;
@@ -542,12 +542,12 @@ h4 {
 
 h5 {
     font-size: 14px;
-    color: #333;
+    color: #000;
     text-align: center
 }
 
 h6 {
-    color: #777;
+    color: #000;
     font-size: 14px;
     text-align: center
 }
