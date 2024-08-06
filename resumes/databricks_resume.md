@@ -26,7 +26,6 @@ George Fox University
 
 - Provide high-quality music instruction, retaining many current students for more than 4 years.
 - Maintain a profile of each student with my Student Log CLI app written with C and sqlite.
-- Instruct students in guitar, bass guitar, and ukulele at all levels, from novice to advanced.
 - Prepare lesson material for each student according to their needs and interests.
 - Research consistently for new pedagogical techniques and tools.
 
@@ -42,7 +41,6 @@ George Fox University
 
 - Managed a team of baristas, scheduling breaks and delegating tasks.
 - Helped customers select coffee beans according to their desired flavor profile.
-- Handled the wide range of challenges unique to customer service.
 - Taste-tested coffees with the roasting team for quality control.
 - Prepared coffee for wholesale and retail delivery and kept track of inventory.
 
@@ -58,7 +56,11 @@ George Fox University
 Rust, C/C++, Python, Postgres, sqlite, Data Structures, Algorithms, Django, Flask, JavaScript, HTML/CSS, Bootstrap
 
 ## Certificates
-#### <span style="float: left">HarvardX CS50's Introduction to Artificial Intelligence with Python</span>
-#### <span style="float: right">Aug 2023</span><br>
-#### <span style="float: left">HarvardX CS50's Introduction to Computer Science</span>
-#### <span style="float: right">Dec 2022</span><br>
+<span style="float: left">UC Boulder - Algorithms for Searching, Sorting, and Indexing</span>
+<span style="float: right">Feb 2024</span><br>
+<span style="float: left">UI at Urbana Champaign - Object-Oriented Data Structures and Algorithms in C++</span>
+<span style="float: right">Aug 2023</span><br>
+<span style="float: left">HarvardX CS50's Introduction to Artificial Intelligence with Python</span>
+<span style="float: right">Aug 2023</span><br>
+<span style="float: left">HarvardX CS50's Introduction to Computer Science</span>
+<span style="float: right">Dec 2022</span><br>
