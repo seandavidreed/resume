@@ -25,7 +25,7 @@ George Fox University
 #### <span style="float: right">Jun 2019 - Present</span><br>
 
 - Provide high-quality music instruction, retaining many current students for more than 4 years.
-- Maintain a profile of each student with my Student Log CLI app written with C and sqlite, keeping detailed notes of all activities and assignments.
+- Maintain a profile of each student with my Student Log CLI app written with C and sqlite.
 - Instruct students in guitar, bass guitar, and ukulele at all levels, from novice to advanced.
 - Prepare lesson material for each student according to their needs and interests.
 - Research consistently for new pedagogical techniques and tools.
@@ -44,8 +44,7 @@ George Fox University
 - Helped customers select coffee beans according to their desired flavor profile.
 - Handled the wide range of challenges unique to customer service.
 - Taste-tested coffees with the roasting team for quality control.
-- Prepared coffee for wholesale and retail delivery.
-- Kept track of coffee inventory.
+- Prepared coffee for wholesale and retail delivery and kept track of inventory.
 
 #### <span style="float: left">Manager - Woodland Espresso | Puyallup, WA</span>
 #### <span style="float: right">Jan 2015 - Sept 2016</span><br>
@@ -56,7 +55,7 @@ George Fox University
 - Scheduled deliveries to the shop.
 
 ## Skills
-Rust, C/C++, Python, Postgres, sqlite, Django, Flask, JavaScript, HTML/CSS, Bootstrap
+Rust, C/C++, Python, Postgres, sqlite, Data Structures, Algorithms, Django, Flask, JavaScript, HTML/CSS, Bootstrap
 
 ## Certificates
 #### <span style="float: left">HarvardX CS50's Introduction to Artificial Intelligence with Python</span>
