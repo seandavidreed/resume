@@ -8,6 +8,6 @@ if [$file_name = ""]; then
 fi
 
 pandoc ${file_name}.md -f markdown -t html -c ../resume-stylesheet.css -s -o ${file_name}.html
-wkhtmltopdf --enable-local-file-access ${file_name}.html ../pdf/${file_name}.pdf
+wkhtmltopdf --enable-local-file-access --page-size Letter ${file_name}.html ../pdf/${file_name}.pdf
 
 rm ${file_name}.html
