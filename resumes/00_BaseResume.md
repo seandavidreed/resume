@@ -5,10 +5,10 @@ margin-top: 1cm
 margin-bottom: 2cm
 title: Sean Reed
 ---
-###### seandavidreed.me | linkedin.com/in/seandreed | seanreed7992@gmail.com | 253 691 0013
+###### seandavidreed.com | linkedin.com/in/seandreed | seanreed7992@gmail.com | 253 691 0013
 
 ## Summary
-Computer Science student making a career change from Music Instruction to Software Engineering. Bringing over 5 years of teaching experience with transferable skills such as problem-solving, communicating complex topics simply, and developing curricula that align with the unique goals of each student. Demonstrating 3 years of programming and development through designing and building multiple projects, including an inventory manager web application with Django, Python, and Postgres currently in production. Seeking an opportunity to learn new things and use my skills as a Python Developer.
+Computer Science student making a career change from Music Instruction to Software Engineering. Bringing over 5 years of teaching experience with transferable skills such as problem-solving, communicating complex topics simply, and developing curricula that align with the unique goals of each student. Demonstrating 3 years of programming and development through designing and building multiple projects, including an inventory manager web application with Django, Python, and Postgres currently in production. Seeking an opportunity to learn new things and solve problems as a Software Engineering Intern.
 
 ## Education
 #### <span style="float: left">BS in Computer Science</span>
@@ -51,7 +51,7 @@ George Fox University
 - Planned the shift schedule and hired new baristas.
 
 ## Skills
-Rust, C/C++, Python, Postgres, sqlite, Data Structures, Algorithms, Django, Flask, JavaScript, HTML/CSS, Bootstrap
+C/C++, Python, Rust, JavaScript, Verilog, Postgres, sqlite, Django, Flask, HTML/CSS, Bootstrap
 
 ## Certificates
 <span style="float: left">UC Boulder - Algorithms for Searching, Sorting, and Indexing</span>
