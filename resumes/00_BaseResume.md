@@ -8,7 +8,7 @@ title: Sean Reed
 ###### seandavidreed.com | linkedin.com/in/seandreed | seanreed7992@gmail.com | 253 691 0013
 
 ## Summary
-Computer Science student making a career change from Music Instruction to Software Engineering. Bringing over 5 years of teaching experience with transferable skills such as problem-solving, communicating complex topics simply, and developing curricula that align with the unique goals of each student. Demonstrating 3 years of programming and development through designing and building multiple projects, including an inventory manager web application with Django, Python, and Postgres currently in production. Seeking an opportunity to learn new things and solve problems as a Software Engineering Intern.
+Computer Science student making a career change from Music Instruction to Software Engineering. Bringing over 5 years of teaching experience with transferable skills such as problem-solving, communicating complex topics simply, and developing curricula that align with the unique goals of each student. Demonstrating 3 years of programming and development through designing and building multiple projects, including an inventory manager web application with Django, Python, and Postgres currently in production. Seeking an opportunity to learn new things and solve problems as a Software Engineer.
 
 ## Education
 #### <span style="float: left">BS in Computer Science</span>
