@@ -482,7 +482,7 @@ body {
     background-color: #fff;
     padding: 30px;
     margin: 15px;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.6
 }
 
@@ -516,12 +516,12 @@ h6 {
 h1 {
     font-size: 37px;
     color: #000;
-    text-align: center
+    /*text-align: center*/
 }
 
 h2 {
     font-size: 18px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #000;
     color: #000;
 }
 
