@@ -14,13 +14,13 @@ Computer Science student leveraging 5+ years of teaching experience to bring str
 ## Professional Experience
 **<span style="float: left">Data Annotator (self-employed) | DataAnnotation | Remote</span>**
 **<span style="float: right">Aug 2024 - Present</span>**  
-- Systematically compare and analyze outputs from large language models  
+- Write code in C/C++, Python, Rust, JavaScript, and more to create stress tests for LLMs  
 - Review and refine AI-generated code to ensure technical accuracy and usability  
 - Provide critical feedback to support ongoing machine learning model improvements  
 
 **<span style="float: left">Music Instructor | Cappella Music Academy | Tacoma, WA</span>**
 **<span style="float: right">Jun 2019 - Present</span>**  
-- Develop and maintain curricula for 20+ students, achieving 80% long-term retention  
+- Provide high-quality music instruction, retaining many current students for more than 4 years  
 - Break down complex concepts into clear, understandable components  
 - Adapt teaching methods to accommodate diverse learning styles and individual student goals  
 
@@ -28,7 +28,6 @@ Computer Science student leveraging 5+ years of teaching experience to bring str
 **<span style="float: right">Dec 2018 - Jun 2019</span>**  
 - Managed inventory logistics and coordinated with installation teams  
 - Implemented efficient organizational systems for tracking materials and equipment  
-- Collaborated with cross-functional teams to optimize workflow processes
 <br>
 
 ## Education

@@ -36,3 +36,4 @@
 36. 2024-11-13 Canonical - Junior Linux Kernel Engineer - Ubuntu
 37. 2024-12-02 Nintendo - Intern, CPU Debugger Software Engineer
 38. 2024-12-02 NetAcquire Corporation - Linux Software Developer
+39. 2024-12-05 Philips - Intern: Algorithm & Research Engineer
