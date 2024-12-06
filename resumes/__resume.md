@@ -52,6 +52,6 @@ George Fox University
 - Used modular design principles for maintainable and scalable code  
 
 **<span style="float: left">Inventory Management System</span>**  
-- Built and deployed a production-ready web application using Django and PostgreSQL  
+- Built and deployed a production-ready web application using Python, Django, and PostgreSQL  
 - Implemented full CRUD functionality for inventory tracking  
 - Designed responsive UI with Bootstrap and custom CSS  
