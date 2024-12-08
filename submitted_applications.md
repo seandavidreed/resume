@@ -39,3 +39,4 @@
 39. 2024-12-05 Philips - Intern: Algorithm & Research Engineer
 40. 2024-12-06 Childhood Cancer Society - Software Engineering Intern
 41. 2024-12-06 Wikimedia Foundation - Software Engineering Intern
+42. 2024-12-08 Bayer Group - Digital Farming Intern: Software Engineer
