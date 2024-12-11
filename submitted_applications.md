@@ -40,3 +40,4 @@
 40. 2024-12-06 Childhood Cancer Society - Software Engineering Intern
 41. 2024-12-06 Wikimedia Foundation - Software Engineering Intern
 42. 2024-12-08 Bayer Group - Digital Farming Intern: Software Engineer
+43. 2024-12-10 Highbrow LLC - Python Developer
