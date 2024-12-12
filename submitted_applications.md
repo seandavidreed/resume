@@ -15,11 +15,11 @@
 15. 2024-09-19 [Microsoft](https://www.microsoft.com) - Software for Hardware Engineer Intern
 16. 2024-09-25 [Microsoft](https://www.microsoft.com) - Software Engineer: Fullstack Intern Opportunities
 17. 2024-09-25 [Rinsed](https://www.rinsed.com) - Software Engineer
-18. 2024-09-28 [IBM](https://www.ibm.com) - Quantum Systems Software Developer Internship 2025
+18. *2024-09-28 [IBM](https://www.ibm.com) - Quantum Systems Software Developer Internship 2025*
 19. 2024-10-01 Electric Era - Software Engineer Intern
 20. 2024-10-02 M Lane Agency - Data Science Intern
 21. 2024-10-02 [Figma](https://www.figma.com) - Software Engineer Intern
-22. 2024-10-08 Apex Systems - Software Engineer
+22. *2024-10-08 Apex Systems - Software Engineer*
 23. 2024-10-09 Amazon - Software Dev Engineer Intern, Automated Reasoning
 24. 2024-10-09 Meta - Data Engineer Intern
 25. 2024-10-09 Adobe - 2025 Intern, Software Engineer
@@ -33,12 +33,12 @@
 33. 2024-11-09 Twilio - Software Engineer Intern
 34. 2024-11-12 Reddit - Software Engineering Intern
 35. 2024-11-12 Oracle - Software Engineer Intern - Database Technologies
-36. 2024-11-13 Canonical - Junior Linux Kernel Engineer - Ubuntu
-37. 2024-12-02 Nintendo - Intern, CPU Debugger Software Engineer
-38. 2024-12-02 NetAcquire Corporation - Linux Software Developer
+36. 2024-11-13 *Canonical - Junior Linux Kernel Engineer - Ubuntu*
+37. 2024-12-02 *Nintendo - Intern, CPU Debugger Software Engineer*
+38. 2024-12-02 *NetAcquire Corporation - Linux Software Developer*
 39. 2024-12-05 Philips - Intern: Algorithm & Research Engineer
 40. 2024-12-06 Childhood Cancer Society - Software Engineering Intern
-41. 2024-12-06 Wikimedia Foundation - Software Engineering Intern
+41. 2024-12-06 *Wikimedia Foundation - Software Engineering Intern*
 42. 2024-12-08 Bayer Group - Digital Farming Intern: Software Engineer
 43. 2024-12-10 Highbrow LLC - Python Developer
-44. 2024-12-12 GitHub - Software Engineer - IT Intern
+44. *2024-12-12 GitHub - Software Engineer - IT Intern*
