@@ -42,3 +42,4 @@
 42. 2024-12-08 Bayer Group - Digital Farming Intern: Software Engineer
 43. 2024-12-10 Highbrow LLC - Python Developer
 44. *2024-12-12 GitHub - Software Engineer - IT Intern*
+45. 2024-12-14 Triplenet Technologies - Entry Level System Engineer (Linux/Windows)
