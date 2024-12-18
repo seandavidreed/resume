@@ -43,3 +43,4 @@
 43. 2024-12-10 Highbrow LLC - Python Developer
 44. *2024-12-12 GitHub - Software Engineer - IT Intern*
 45. 2024-12-14 Triplenet Technologies - Entry Level System Engineer (Linux/Windows)
+46. 2024-12-18 Starfish Space - Software Engineering Intern
