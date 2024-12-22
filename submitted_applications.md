@@ -47,3 +47,4 @@
 47. 2024-12-18 MagniX - Embedded Software Engineer Intern
 48. 2024-12-21 Bruker LLC - Electronics Assembler
 49. 2024-12-21 Nintendo - Intern, GPU Tools Software Engineer
+50. 2024-12-22 Amazon - SDEI Intern - DynamoDB
