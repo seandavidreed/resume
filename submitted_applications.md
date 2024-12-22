@@ -45,3 +45,4 @@
 45. 2024-12-14 Triplenet Technologies - Entry Level System Engineer (Linux/Windows)
 46. 2024-12-18 Starfish Space - Software Engineering Intern
 47. 2024-12-18 MagniX - Embedded Software Engineer Intern
+48. 2024-12-22 Bruker LLC - Electronics Assembler
