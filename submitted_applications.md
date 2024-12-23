@@ -48,3 +48,4 @@
 48. 2024-12-21 Bruker LLC - Electronics Assembler
 49. 2024-12-21 Nintendo - Intern, GPU Tools Software Engineer
 50. 2024-12-22 Amazon - SDEI Intern - DynamoDB
+51. 2024-12-23 Palantir - Software Engineer, Internship
