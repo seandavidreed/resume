@@ -50,4 +50,4 @@
 50. 2024-12-22 Amazon - SDEI Intern - DynamoDB
 51. 2024-12-23 Palantir - Software Engineer, Internship
 52. 2024-12-23 City of Tacoma - Engineering Intern (Tacoma Power)
-53. 2024-12-27 Boeing - Associate Software Engineer
+53. 2024-12-27 Boeing - Associate Software Engineer **Unselected**
