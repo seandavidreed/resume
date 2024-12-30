@@ -14,7 +14,7 @@
 14. 2024-09-18 [Pacific Data Integrators](https://www.pacificdataintegrators.com/) - Junior Software Developer
 15. 2024-09-19 [Microsoft](https://www.microsoft.com) - Software for Hardware Engineer Intern
 16. 2024-09-25 [Microsoft](https://www.microsoft.com) - Software Engineer: Fullstack Intern Opportunities
-17. 2024-09-25 [Rinsed](https://www.rinsed.com) - Software Engineer
+17. 2024-09-25 [Rinsed](https://www.rinsed.com) - Software Engineer **Unselected**
 18. 2024-09-28 [IBM](https://www.ibm.com) - Quantum Systems Software Developer Internship 2025
 19. 2024-10-01 Electric Era - Software Engineer Intern
 20. 2024-10-02 M Lane Agency - Data Science Intern
